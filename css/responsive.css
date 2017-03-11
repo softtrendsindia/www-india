@@ -762,6 +762,77 @@
     iframe {
         width: 100% !important;
     }
+    .sidebar-page-container {
+        padding: 30px 0 50px;
+    }
+    .info_link ul li {
+        width: 100%;
+    }
+    .service-video iframe {
+        height: 180px !important;
+        margin-top: 20px;
+    }
+    .sec-title-two {
+        margin-bottom: 40px;
+    }
+    .sidebar-title-two h3 {
+        font-size: 15px;
+    }
+    .sidebar .tabbed-nav li a {
+        padding: 5px 10px 5px 36px;
+    }
+    .sidebar .tabbed-nav li a::before {
+        top: 45%;
+    }
+    .info-links {
+        padding-left: 0px;
+    }
+    .belgrade-section {
+        padding-top: 0;
+    }
+    .text {
+        text-align: justify;
+    }
+    .experties-video iframe {
+        height: 190px;
+    }
+    .page-title h1 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .grid.full {
+        width: 100%;
+    }
+    .btn-style-two {
+        padding: 8px 26px;
+    }
+    .left > h2 {
+        font-size: 21px;
+    }
+    .sidebar-page-container .content-side, .sidebar-page-container .sidebar {
+        margin-bottom: 0px;
+    }
+    .choose-style-two {
+        padding:0 0 50px;
+    }
+    .margin-top20{
+        margin-top: 20px;
+    }
+    .featured-block .inner-box h3 {
+        font-size: 16px;
+        text-align: left;
+    }
+    .sec-title-two {
+        margin-bottom: 55px;
+    }
+    .about-section {
+        padding: 50px 0 30px;
+    }
+
+
+
+
+
 }
 
 @media only screen and (max-width: 599px){
