@@ -507,6 +507,7 @@ footer-menu-list{
 
 ***/
 
+
 .sidebar-title-two{
     position:relative;
     margin-bottom:20px;
@@ -689,6 +690,19 @@ img{
 ====================================================================
 
 ***/
+
+.more .inner-box .read-more {
+  color: #fde953;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+  text-transform: uppercase;
+  transition: all 0.5s ease 0s;
+}
+.more .inner-box .read-more:hover {
+  color: #ccc;
+}
 
 .main-header{
     position:relative;
@@ -3071,8 +3085,8 @@ img{
 }
 
 .news-block .inner-box .lower-content {
-  margin-bottom: 50px;
-  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-top: 35px;
 }
 
 .news-block .inner-box .lower-content .outer-link{
@@ -3105,7 +3119,7 @@ img{
     position:relative;
     padding-top:8px;
     color:#444444;
-    top:2px;
+    top:-11px;
     font-size:17px;
     font-weight:700;
     text-transform:uppercase;
@@ -3358,7 +3372,7 @@ img{
     padding-left: 42px;
     margin-bottom: 10px;
     line-height: 24px;
-    font-size:15px;
+    font-size:14px;
     color:#cccccc;
     font-family: 'Cabin', sans-serif;
 }
@@ -5722,6 +5736,10 @@ img{
     font-family: 'Cabin', sans-serif;
 }
 
+.footer-widget.about-widget {
+  background: rgba(0, 0, 0, 0) url("../images/map.png") no-repeat scroll 0 0 / 100% auto;
+}
+
 .in-touch .map-inner-box{
     padding-left:100px;
 }
@@ -7165,7 +7183,7 @@ img{
 
 .sidebar-page-container .comments-area{
     position:relative;
-    margin-top:60px;
+    margin-top:30px;
 }
 
 .sidebar-page-container .group-title{
@@ -7588,7 +7606,7 @@ img{
     color: #ccc;
 }
 .footer-widget .about-contact-info {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .newsletter-form{
     margin-top: 30px

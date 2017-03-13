@@ -828,6 +828,43 @@
     .about-section {
         padding: 50px 0 30px;
     }
+    .social-icons-two ul, li {
+        padding: 0 16px;
+    }
+    .pull-right {
+        float: left !important;
+    }
+    .post-option {
+        margin-top: 0;
+        padding: 5px 0;
+    }
+    .sidebar-page-container .comments-area {
+        margin-top: 25px;
+    }
+    .sidebar-page-container .comments-area .comment-box {
+        padding: 0px;
+    }
+    .sidebar-page-container .comments-area .comment-box strong {
+        font-size: 13px;
+    }
+    .sidebar-page-container .comments-area .comment-info .comment-time::before {
+        font-size: 12px;
+    }
+    .comment-form .comment-title {
+        margin-bottom: 14px;
+        margin-top: 0;
+    }
+    .default-form .form-group button {
+        padding: 8px 20px;
+    }
+    .sidebar-page-container .group-title h2 {
+        font-size: 16px;
+    }
+    .news-block .inner-box .lower-content {
+        margin-top: 14px;
+    }
+
+
 
 
 
