@@ -7621,4 +7621,10 @@ img{
   padding: 10px 20px 20px;
   width: 69%;
 }
+.privacy-section {
+  margin: 40px 0;
+}
+.privacy-list {
+  margin-top: 20px;
+}
 
